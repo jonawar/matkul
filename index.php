@@ -5,12 +5,12 @@
         <meta charset="UTF-8">
     </head>
     <body bgcolor="#eee" color="#fff">
-        <table width="100%" height="100%" cellpadding="5" cellspacing="10" bgcolor="#002D4F">
+        <table width="100%" height="100%" cellpadding="5" cellspacing="10" bgcolor="#000">
             <thead>
                 <tr>
                     <td colspan="4" rowspan="2" width="20%">
                         <center>
-                            <img src="asset/img/logo-padang.png" width="80%">
+                            <img src="asset/img/jjm.jpg" width="80%">
                         </center>
                     </td>
                     <td colspan="5">
@@ -38,11 +38,9 @@
                             </tr>
                             <tr>
                                 <td rowspan="3">
-                                    <div>
                                         <center>
-                                        <img src="asset/img/Harga-sepeda-lowrider-terbaru.jpg" width="70%">
+                                        <img src="asset/img/balon.jpg" width="100%">
                                         </center>
-                                    </div>
                                     <div>
                                         <div><h4>Nama Promo</h4></div>
                                         <div>Harga</div>
@@ -52,10 +50,10 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td width="30%">
+                                <td width="20%">
                                     <div>
                                         <center>
-                                        <img src="asset/img/Desain-Unik.png" width="75%" height="150px">
+                                        <img src="asset/img/bus.jpg" width="100%">
                                         </center>
                                     </div>
                                     <div>
@@ -65,10 +63,10 @@
                                         <div>Deskripsi</div>
                                     </div>
                                 </td>
-                                <td width="30%">
+                                <td width="20%">
                                     <div>
                                         <center>
-                                        <img src="asset/img/niigt-1749979_1280.jpg" width="75%" height="150px">
+                                        <img src="asset/img/kapal.jpg" width="100%">
                                         </center>
                                     </div>
                                     <div>
@@ -83,7 +81,7 @@
                                 <td>
                                     <div>
                                         <center>
-                                        <img src="asset/img/pesawat-nc212i_20160615_203110.jpg" width="75%" height="150px">
+                                        <img src="asset/img/pesawat.jpg" width="100%">
                                         </center>
                                     </div>
                                     <div>
@@ -96,7 +94,7 @@
                                 <td>
                                     <div>
                                         <center>
-                                        <img src="asset/img/jalur-kereta-api-hijaz-0.jpg" width="75%" height="150px">
+                                        <img src="asset/img/motor.jpg" width="100%">
                                         </center>
                                     </div>
                                     <div>
