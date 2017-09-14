@@ -66,7 +66,7 @@
                                 <td width="20%">
                                     <div>
                                         <center>
-                                        <img src="asset/img/kapal.jpg" width="100%">
+                                        <img src="asset/img/kapal.JPG" width="100%">
                                         </center>
                                     </div>
                                     <div>
@@ -94,7 +94,7 @@
                                 <td>
                                     <div>
                                         <center>
-                                        <img src="asset/img/motor.jpg" width="100%">
+                                        <img src="asset/img/kereta.JPG" width="100%">
                                         </center>
                                     </div>
                                     <div>
